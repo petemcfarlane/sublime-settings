@@ -1,0 +1,25 @@
+{
+	"added_words":
+	[
+		"virtualisation",
+		"app"
+	],
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"fade_fold_buttons": false,
+	"font_size": 14,
+	"hide_minimap": true,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"overlay_scroll_bars": "enabled",
+	"spell_check": true,
+	"theme": "Seti.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

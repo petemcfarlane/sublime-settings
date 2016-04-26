@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"ExpandRegion",
+		"GitGutter",
+		"Package Control",
+		"PHPTools",
+		"Seti_UI",
+		"SublimeHaskell",
+		"SublimeREPL",
+		"Yeti_UI"
+	]
+}
