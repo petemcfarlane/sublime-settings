@@ -2,7 +2,8 @@
 	"added_words":
 	[
 		"virtualisation",
-		"app"
+		"app",
+		"php"
 	],
 	"caret_extra_bottom": 3,
 	"caret_extra_top": 3,
@@ -14,11 +15,14 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Phpcs",
+		"PHPTools",
 		"Vintage"
 	],
 	"ignored_words":
 	[
-		"php"
+		"php",
+		"ar"
 	],
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,

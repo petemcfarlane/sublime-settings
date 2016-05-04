@@ -8,11 +8,14 @@
 		"AdvancedNewFile",
 		"ExpandRegion",
 		"GitGutter",
+		"Markdown Preview",
 		"Package Control",
+		"phpfmt",
 		"PHPTools",
 		"Seti_UI",
 		"SublimeHaskell",
 		"SublimeREPL",
+		"TrailingSpaces",
 		"Yeti_UI"
 	]
 }
