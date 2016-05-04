@@ -9,7 +9,7 @@
     { "keys": ["alt+shift+down"], "command": "swap_line_down" },
     { "keys": ["ctrl+g"], "command": "find_under_expand" },
     { "keys": ["super+d"], "command": "duplicate_line" },
-    { "keys": ["super+backspace"], "command": "run_macro_file", "args": {"file": "res://packages/default/delete line.sublime-macro"} },
+    { "keys": ["super+backspace"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
     { "keys": ["super+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
 
     // { "keys": ["alt+up"], "command": "select_lines", "args": {"forward": false} },
